@@ -1,3 +1,3 @@
-const simpleLua = require("simple-lua");
+const simpleLua = require("easy-lua");
 
 simpleLua.doFile("./print.lua");

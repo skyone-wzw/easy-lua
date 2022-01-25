@@ -1,9 +1,9 @@
-# Simple Lua
+# Easy Lua
 
 Use Lua in Node.js simply.
 
 ```js
-const simpleLua = require("simple-lua");
+const simpleLua = require("easy-lua");
 
 simpleLua.doFile("./test.lua");
 ```

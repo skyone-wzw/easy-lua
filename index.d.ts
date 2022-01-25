@@ -4,8 +4,3 @@ declare function doFileFunction(
     funName: string,
     retType: "string" | "none" | "number",
     ...args: Array<number | string>): string | number | void;
-
-export default {
-    doFile,
-    doFileFunction
-}
